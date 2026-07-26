@@ -59,7 +59,7 @@ Everything you need is in one clean package: **Pure PHP**, **MySQL**, and **mult
 <summary><strong>Click to expand preview images</strong></summary>
 <br>
 
-> *Add your screenshots to the `docs/screenshots/` folder and link them here once ready.*
+> *Soon...*
 
 </details>
 
